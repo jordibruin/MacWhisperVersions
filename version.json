@@ -5,55 +5,64 @@
 		"title": "Tiny (English)",
 		"description": "Very fast but okay accuracy",
 		"remoteUrl": "https://pub-d87f3f7fc7ee4955b8c3afaad2b5d4ea.r2.dev/ggml-model-whisper-tiny.en.bin",
-		"english": true
+		"english": true,
+		"pro": true
 	}, {
 		"id": "ggml-model-whisper-tiny",
 		"title": "Tiny",
 		"description": "Very fast but okay accuracy",
 		"remoteUrl": "https://pub-d87f3f7fc7ee4955b8c3afaad2b5d4ea.r2.dev/ggml-model-whisper-tiny.bin",
-		"english": false
+		"english": false,
+		"pro": false
 	}, {
 		"id": "ggml-model-whisper-base.en",
 		"title": "Base (English)",
 		"description": "Fast with decent accuracy",
 		"english": true,
-		"remoteUrl": "https://pub-d87f3f7fc7ee4955b8c3afaad2b5d4ea.r2.dev/ggml-model-whisper-base.en.bin"
+		"remoteUrl": "https://pub-d87f3f7fc7ee4955b8c3afaad2b5d4ea.r2.dev/ggml-model-whisper-base.en.bin",
+		"pro": false
 	}, {
 		"id": "ggml-model-whisper-base",
 		"title": "Base",
 		"english": false,
 		"description": "Fast with decent accuracy",
-		"remoteUrl": "https://pub-d87f3f7fc7ee4955b8c3afaad2b5d4ea.r2.dev/ggml-model-whisper-base.bin"
+		"remoteUrl": "https://pub-d87f3f7fc7ee4955b8c3afaad2b5d4ea.r2.dev/ggml-model-whisper-base.bin",
+		"pro": false
 	}, {
 		"id": "ggml-model-whisper-small.en",
 		"english": true,
 		"title": "Small (English)",
 		"description": "Normal speed with good accuracy",
-		"remoteUrl": "https://pub-d87f3f7fc7ee4955b8c3afaad2b5d4ea.r2.dev/ggml-model-whisper-small.en.bin"
+		"remoteUrl": "https://pub-d87f3f7fc7ee4955b8c3afaad2b5d4ea.r2.dev/ggml-model-whisper-small.en.bin",
+		"pro": false
 	}, {
 		"id": "ggml-model-whisper-small",
 		"title": "Small",
 		"description": "Normal speed with good accuracy",
 		"remoteUrl": "https://pub-d87f3f7fc7ee4955b8c3afaad2b5d4ea.r2.dev/ggml-model-whisper-small.bin",
-		"english": false
+		"english": false,
+		"pro": false
 	}, {
 		"id": "ggml-model-whisper-medium.en",
 		"title": "Medium (English)",
 		"description": "Slow but great accuracy",
 		"remoteUrl": "https://pub-d87f3f7fc7ee4955b8c3afaad2b5d4ea.r2.dev/ggml-medium.en.bin",
-		"english": true
+		"english": true,
+		"pro": true
 	}, {
 		"id": "ggml-model-whisper-medium",
 		"title": "Medium",
 		"description": "Slow but great accuracy (~1.5 GB)",
 		"remoteUrl": "https://pub-d87f3f7fc7ee4955b8c3afaad2b5d4ea.r2.dev/ggml-medium.bin",
-		"english": false
+		"english": false,
+		"pro": true
 	}, {
 		"id": "ggml-model-whisper-large",
 		"title": "Large",
 		"description": "Very slow but amazing accuracy (~3 GB)",
 		"remoteUrl": "https://pub-d87f3f7fc7ee4955b8c3afaad2b5d4ea.r2.dev/ggml-large.bin",
-		"english": false
+		"english": false,
+		"pro": true
 	}]
 
 }
