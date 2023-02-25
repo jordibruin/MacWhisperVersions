@@ -1,5 +1,5 @@
 {
-	"latestVersion": 43,
+	"latestVersion": 44,
 	"models": [{
 		"id": "ggml-model-whisper-tiny.en",
 		"title": "Tiny (English)",
