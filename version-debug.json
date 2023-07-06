@@ -75,7 +75,8 @@
 		"remoteUrl": "https://pub-d87f3f7fc7ee4955b8c3afaad2b5d4ea.r2.dev/ggml-small.en-tdrz.bin",
 		"english": true,
 		"pro": false,
-		"sizeOrder": 4
+		"sizeOrder": 4,
+		"diarized": true
 	}
 ]
 
