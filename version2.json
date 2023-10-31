@@ -11,7 +11,7 @@
 	}, {
 		"id": "ggml-model-whisper-tiny",
 		"title": "Tiny",
-		"description": "Very fast but okay accuracy (80 MB)",
+		"description": "Very fast but bad accuracy (80 MB)",
 		"remoteUrl": "https://stickytimers.app/ggml-model-whisper-tiny.bin",
 		"english": false,
 		"pro": false,
