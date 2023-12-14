@@ -1,0 +1,84 @@
+{
+	"latestVersion": 630,
+	"models": [{
+		"id": "ggml-model-whisper-tiny.en",
+		"title": "Tiny",
+		"description": "Very fast but okay accuracy (80 MB)",
+		"remoteUrl": "https://stickytimers.app/ggml-model-whisper-tiny.en.bin",
+		"english": true,
+		"pro": true,
+		"sizeOrder": 1
+	}, {
+		"id": "ggml-model-whisper-tiny",
+		"title": "Tiny",
+		"description": "Very fast but bad accuracy (80 MB)",
+		"remoteUrl": "https://stickytimers.app/ggml-model-whisper-tiny.bin",
+		"english": false,
+		"pro": false,
+		"sizeOrder": 1
+	}, {
+		"id": "ggml-model-whisper-base.en",
+		"title": "Base",
+		"description": "Fast with decent accuracy (150 MB)",
+		"english": true,
+		"remoteUrl": "https://stickytimers.app/ggml-model-whisper-base.en.bin",
+		"pro": false,
+		"sizeOrder": 10
+	}, {
+		"id": "ggml-model-whisper-base",
+		"title": "Base",
+		"english": false,
+		"description": "Fast with decent accuracy (150 MB)",
+		"remoteUrl": "https://stickytimers.app/ggml-model-whisper-base.bin",
+		"pro": false,
+		"sizeOrder": 10
+	}, {
+		"id": "ggml-model-whisper-small.en",
+		"english": true,
+		"title": "Small",
+		"description": "Normal speed with good accuracy (500 MB)",
+		"remoteUrl": "https://stickytimers.app/ggml-model-whisper-small.en.bin",
+		"sizeOrder": 20
+	}, {
+		"id": "ggml-model-whisper-small",
+		"title": "Small",
+		"description": "Normal speed with good accuracy (500 MB)",
+		"remoteUrl": "https://stickytimers.app/ggml-model-whisper-small.bin",
+		"english": false,
+		"sizeOrder": 20
+	}, {
+		"id": "ggml-model-whisper-medium.en",
+		"title": "Medium",
+		"description": "Slow but great accuracy (1.5 GB)",
+		"remoteUrl": "https://stickytimers.app/ggml-medium.en.bin",
+		"english": true,
+		"sizeOrder": 30,
+		"pro": true
+	}, {
+		"id": "ggml-model-whisper-medium",
+		"title": "Medium",
+		"description": "Slow but great accuracy (1.5 GB)",
+		"remoteUrl": "https://stickytimers.app/ggml-medium.bin",
+		"english": false,
+		"sizeOrder": 30,
+		"pro": true
+	}, {
+		"id": "ggml-model-whisper-large",
+		"title": "Large",
+		"description": "Very slow but amazing accuracy (3 GB)",
+		"remoteUrl": "https://stickytimers.app/ggml-large.bin",
+		"english": false,
+		"sizeOrder": 40,
+		"pro": true
+	}, {
+		"id": "ggml-model-whisper-large-v3",
+		"title": "Large (V3)",
+		"description": "Most accurate transcription, updated model (3 GB)",
+		"remoteUrl": "https://stickytimers.app/ggml-large-v3.bin",
+		"english": false,
+		"sizeOrder": 41,
+		"pro": true
+	}
+]
+
+}
