@@ -64,7 +64,7 @@
 		"pro": true
 	}, {
 		"id": "ggml-model-whisper-large",
-		"title": "Large",
+		"title": "Large (V2)",
 		"description": "Very slow but amazing accuracy (3 GB)",
 		"remoteUrl": "https://stickytimers.app/ggml-large.bin",
 		"english": false,
