@@ -70,15 +70,7 @@
 		"english": false,
 		"sizeOrder": 40,
 		"pro": true
-	}, {
- 		"id": "ggml-model-whisper-large-v3",
- 		"title": "Large (V3)",
- 		"description": "Most accurate transcription, updated model but can have repetition in transcript (3 GB)",
- 		"remoteUrl": "https://stickytimers.app/ggml-large-v3.bin",
- 		"english": false,
- 		"sizeOrder": 41,
- 		"pro": true
- 	}	
+	}
 ]
 
 }
