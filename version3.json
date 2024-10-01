@@ -78,6 +78,15 @@
   		"english": false,
   		"sizeOrder": 41,
   		"pro": true
+  	},
+	{
+  		"id": "ggml-model-whisper-turbo",
+  		"title": "Turbo",
+  		"description": "Highest accuracy and also very fast. Best model for most usecases. (1.6 GB)",
+  		"remoteUrl": "https://stickytimers.app/ggml-model-whisper-turbo.bin",
+  		"english": false,
+  		"sizeOrder": 42,
+  		"pro": true
   	}
 ]
 
